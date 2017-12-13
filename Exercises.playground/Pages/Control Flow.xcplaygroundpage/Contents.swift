@@ -27,7 +27,7 @@
  
  ### Question 1
  
- You've noticed that your parents seem attached to watching weather reports on the television for some reason, rather than just checking the Weater app on their phone.
+ You've noticed that your parents seem attached to watching weather reports on the television for some reason, rather than just checking the Weather app on their phone.
  
  You've also noticed that the weather reporter's comments are very predictable.
  
