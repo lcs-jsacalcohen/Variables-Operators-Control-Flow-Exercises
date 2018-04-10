@@ -40,7 +40,7 @@ let studentsName = "Jose"
 let studentLastName = "Sacal"
 var curretnGrade = "74"
 let studentGrade = "90"
-hhghughuvguyyuf
+
 /*:
  ### Question 2
  
@@ -52,9 +52,11 @@ hhghughuvguyyuf
  
  */
 // Answer Question 2 below
-print("myAge")
-"myAge" = 16
-\\\var 
+let myAge : Int
+let otherAge : Double = 40.0
+let averageAge : Double = myAge && otherAge
+
+
 
 /*:
  ### Question 3
@@ -62,7 +64,7 @@ print("myAge")
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this constant.
  */
 // Answer Question 3 below
-var = personFavouriteHobby
+var personFavouriteHobby : joseSacal
 
 
 /*:
@@ -105,10 +107,9 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
-let question = "Hello how are you feeling?"
-year = question
+var ; 2017
+let joseWriting = print("Hi my name is Jose Sacal")
 
-print("you cant assign a stirng to a integer")
 
 /*:
  ### Question 7
