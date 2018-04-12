@@ -38,8 +38,8 @@
 
 let studentsName = "Jose"
 let studentLastName = "Sacal"
-var curretnGrade = "74"
-let studentGrade = "90"
+var currentGrade = "74"
+let novemberGrae = "90"
 
 /*:
  ### Question 2
@@ -52,9 +52,9 @@ let studentGrade = "90"
  
  */
 // Answer Question 2 below
-let myAge : Int
+let myAge : Int = 16
 let otherAge : Double = 40.0
-let averageAge : Double = myAge && otherAge
+let averageAge : Double = ( Double(myAge) + otherAge ) / 2
 
 
 
@@ -64,7 +64,8 @@ let averageAge : Double = myAge && otherAge
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this constant.
  */
 // Answer Question 3 below
-var personFavouriteHobby : joseSacal
+let personFavouriteHobby = "Soccer"
+
 
 
 /*:
@@ -75,7 +76,7 @@ var personFavouriteHobby : joseSacal
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-print("since they can't be changed they have an assigned value")
+print("never change")
 
 
 /*:
@@ -107,7 +108,7 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
-var ; 2017
+var year = "2017"
 let joseWriting = print("Hi my name is Jose Sacal")
 
 
